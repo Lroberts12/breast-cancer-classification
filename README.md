@@ -99,10 +99,6 @@ scikit-learn
 
 This type of model supports clinical decision-making in oncology. A high-sensitivity classifier can serve as a screening tool to flag suspicious cases for further diagnostic workup, reducing the chance that malignant tumors are missed.
 
----
-
-**Resume bullet:**
-*Developed machine learning models (Logistic Regression, Random Forest, SVM) to classify benign and malignant breast tumors, achieving >0.99 ROC-AUC; evaluated model performance using sensitivity, specificity, and precision-recall metrics with clinical context.*
 
 ---
 *Part of a healthcare ML portfolio. Dataset from UCI Machine Learning Repository.*
